@@ -1,5 +1,5 @@
 #  Incident Management System-IMS
-The IMS is a software application that helps efficiently manage and track incidents reported by users. This system provides a user-friendly interface to report incidents, assign resources, update incident details, and display incident information. It is designed to streamline the incident management process, making it easier for organizations to handle and resolve incidents effectively.
+The Incident Management System-IMS is a software application that helps efficiently manage and track incidents reported by users. This system provides a user-friendly interface to report incidents, assign resources, update incident details, and display incident information. It is designed to streamline the incident management process, making it easier for organizations to handle and resolve incidents effectively.
 
 # Features
 
