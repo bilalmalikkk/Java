@@ -24,6 +24,7 @@ javac IncidentManagementSystem.java
 ### Run the Main class:
 
 java Main
+
 The IMS will display the main menu with different options to manage incidents.
 Choose the desired option from the menu to perform specific tasks, such as creating incidents, assigning resources, updating incident details, displaying incidents, and saving/loading incidents from CSV files.
 Follow the prompts to input the required information for each task.
