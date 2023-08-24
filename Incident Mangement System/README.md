@@ -20,6 +20,7 @@ javac GPSLocation.java
 javac Resource.java
 javac UserInterface.java
 javac IncidentManagementSystem.java
+
 ### Run the Main class:
 
 java Main
