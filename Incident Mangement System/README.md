@@ -5,7 +5,8 @@ The Incident Management System-IMS is a software application that helps efficien
 
 Create Incident: 
 Users can create new incidents by providing incident details, reporter information, date, time, and GPS location.
-Assign Resource: Users can assign resources to specific incidents to facilitate effective incident resolution.
+Assign Resource: 
+Users can assign resources to specific incidents to facilitate effective incident resolution.
 Update Incident: 
 Users can update incident details, reporter information, date, time, GPS location, and incident descriptions as needed.
 Display Incidents: 
